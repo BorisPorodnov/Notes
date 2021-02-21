@@ -19,3 +19,5 @@ HashMap можно привести к виду Collection вызвав напр
 Другая статья содержит практические замеры быстродействия (осторожно, старая публикация, Java 6).
 
 ![#Коллекции](https://javastudy.ru/wp-content/uploads/2016/01/CollectionsHierarchy.png "Иерархия Коллекций")
+
+![#Коллекции](https://courses.cs.washington.edu/courses/cse143/18au/lectures/11-28/images/Class%20Hierarchy.jpg "Иерархия Коллекций")
