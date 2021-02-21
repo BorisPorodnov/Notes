@@ -21,3 +21,5 @@ HashMap можно привести к виду Collection вызвав напр
 ![#Коллекции](https://javastudy.ru/wp-content/uploads/2016/01/CollectionsHierarchy.png "Иерархия Коллекций")
 
 ![#Коллекции](https://courses.cs.washington.edu/courses/cse143/18au/lectures/11-28/images/Class%20Hierarchy.jpg "Иерархия Коллекций")
+
+![#Коллекции](https://intuit.ru/EDI/25_07_20_1/1595629193-15985/tutorial/57/objects/14/files/14-1.gif "Иерархия Коллекций")
