@@ -1,4 +1,5 @@
 # Notes
+
 Notes Collections
 
 Collection – хранилище отдельных значений, Map – хранилище ключ-значение.
